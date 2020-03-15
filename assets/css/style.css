@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap');
+
+*, h1, h2, p, ul, li, a,
+*:after,
+*:before {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-font-smoothing:antialiased;
+  font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+
+.home h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #FF385C;
+	font-size: 32px;
+	font-weight: 700;
+	padding: 20px;
+}
+
+.home .wrapper{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.home .wrapper .list-bed{
+	display: flex;
+	flex-direction: column;
+	flex-basis: 25%;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.home .wrapper .list-bed img{
+	border-radius: 5px;
+	height: 285px;
+	width: 310px;
+	object-fit: cover;
+}
+
+.home .wrapper .list-bed h2{
+	color: #808080;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 15px 0 0 0;
+	text-transform: capitalize;
+}
+
+.home .wrapper .list-bed p{
+	color: #FF385C;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+	padding-top: 5px;
+}
+
+.home .wrapper .list-bed p.tipo{
+	color: #363636;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+}
