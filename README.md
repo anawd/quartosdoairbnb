@@ -1,5 +1,4 @@
 # Desafio Gama XP#32 Weak#2
-# Desafio proprosto pela Gama academy na segunda semana do XP#32
 
 # Quartos do Airbnb
 Tarefa Aplicada no Programa Gama Academy
