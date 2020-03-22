@@ -1,17 +1,11 @@
+#Desafio Gama XP#32 Weak#2
+#Desafio proprosto pela Gama academy na segunda semana do XP#32
+
 # Quartos do Airbnb
 Tarefa Aplicada no Programa Gama Academy
 
-Cada Hacker deve criar uma tela similar a do Airbnb através do consumo da API de quartos com Javascript Vanilla 
-e usar Flexbox para organizá-los em cards na tela.
+Criado uma view com HTML e CSS, com um consulta a API https://api.sheety.co/30b6e400-9023-4a15-8e6c-16aa4e3b1e72 usando JS.
 
-Resultados esperados:
- 
-Tela com cards contendo
 
-  Imagem
-
-  Localização
-
-  Preço
 
 
